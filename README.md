@@ -1,8 +1,3 @@
-# Assets
-📚 Collection of reusable assets
-
----
-
 <div align="center">
     <a href="https://liyas-thomas.firebaseapp.com"><img src="https://raw.githubusercontent.com/DylanMeivis/Assets/master/gifs/IMG_2275.GIF" alt="Dylan Meivis" width="200"></a>
     <br>
@@ -13,3 +8,6 @@
 </div>
 
 ---
+
+# Assets
+📚 Collection of reusable assets
