@@ -7,7 +7,7 @@
     </sub>
 </div>
 
-===
+---
 
 # Assets
 ### 📚 Collection of reusable assets
