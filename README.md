@@ -10,7 +10,7 @@
 ---
 
 # Assets
-## 📚 Collection of reusable assets
-===
+### 📚 Collection of reusable assets
+
 📷 [Images](https://github.com/DylanMeivis/Assets/tree/master/images)
 🎥 [Gifs](https://github.com/DylanMeivis/Assets/tree/master/gifs)
